@@ -62,3 +62,6 @@ for i in range(1, 10):
         print(f"{j}×{i}={j*i}", end="\t")
     print()
 
+#P53 從第6章開始看
+# https://www.bilibili.com/video/BV1eZ421b7ag?p=53&spm_id_from=pageDriver&vd_source=6d571e7c74d5b7175d1e776ab2bc8922
+
